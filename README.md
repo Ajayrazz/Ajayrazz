@@ -18,7 +18,7 @@
 <!-- TODO: replace with your real LinkedIn URL -->
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <!-- TODO: replace with your portfolio URL, or delete this line -->
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://ajayrazz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
 <a href="mailto:ajayrazz854334@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to Ajay Razz" /></a>
 
 <br/><br/>
