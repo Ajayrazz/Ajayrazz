@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:0e75b6&height=220&section=header&text=Ajay%20Razz&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Application%20Developer&descSize=18&descAlignY=60" alt="Ajay Razz - Software Engineer | Full-Stack and Mobile Application Developer" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C50%3A1f3a5f%2C100%3A0e75b6&height=220&section=header&text=Ajay%20Razz&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Application%20Developer&descSize=18&descAlignY=60" alt="Ajay Razz - Software Engineer | Full-Stack and Mobile Application Developer" width="100%" />
 
 <a href="https://github.com/Ajayrazz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+scalable+applications;Solving+real-world+problems+with+code;Full-Stack+%C2%B7+Mobile+%C2%B7+Backend+Engineering" alt="Typing animation: Building scalable applications, solving real-world problems with code" />
@@ -19,19 +19,18 @@
 
 <br/><br/>
 
-<a href="#-about-me">About</a> &nbsp;·&nbsp;
-<a href="#-tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-<a href="#-featured-projects">Projects</a> &nbsp;·&nbsp;
-<a href="#-engineering-highlights">Engineering</a> &nbsp;·&nbsp;
-<a href="#-problem-solving--dsa">DSA</a> &nbsp;·&nbsp;
-<a href="#-github-dashboard">Stats</a> &nbsp;·&nbsp;
-<a href="#-connect-with-me">Contact</a>
+<a href="#about">About</a> &nbsp;·&nbsp;
+<a href="#stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#projects">Projects</a> &nbsp;·&nbsp;
+<a href="#engineering">Engineering</a> &nbsp;·&nbsp;
+<a href="#dsa">DSA</a> &nbsp;·&nbsp;
+<a href="#stats">Stats</a> &nbsp;·&nbsp;
+<a href="#contact">Contact</a>
 
 </div>
 
----
-
-## 🙋 About Me
+<a name="about"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=About%20Me&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="About Me" width="100%" />
 
 <table>
   <tr>
@@ -53,28 +52,61 @@
 
 I'm open to **Software Engineer / SDE internships and entry-level roles** in full-stack, backend and mobile development.
 
----
-
-## 🧰 Tech Stack
+<a name="stack"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=Tech%20Stack&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="Tech Stack" width="100%" />
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Core strengths** | ![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-0e75b6?style=flat-square) ![Mobile](https://img.shields.io/badge/Mobile%20Apps-0e75b6?style=flat-square) ![Backend](https://img.shields.io/badge/Backend%20Engineering-0e75b6?style=flat-square) |
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" /> |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,prisma&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Supabase, Prisma" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Git, GitHub, Vercel, Netlify" /> |
-| **Core CS** | `Data Structures & Algorithms` `OOP` `System Design` `REST API Design` |
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Development-0d1117?style=for-the-badge&labelColor=0d1117&color=0e75b6)
+![Mobile](https://img.shields.io/badge/Mobile%20Apps-0d1117?style=for-the-badge&labelColor=0d1117&color=0e75b6)
+![Backend](https://img.shields.io/badge/Backend%20Engineering-0d1117?style=for-the-badge&labelColor=0d1117&color=0e75b6)
+
+<br/><br/>
+
+![Languages](https://img.shields.io/badge/LANGUAGES-161b22?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" />
+
+<br/><br/>
+
+![Frontend](https://img.shields.io/badge/FRONTEND-161b22?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
+
+<br/><br/>
+
+![Backend](https://img.shields.io/badge/BACKEND-161b22?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express.js" />
+
+<br/><br/>
+
+![Mobile](https://img.shields.io/badge/MOBILE-161b22?style=flat-square)
+<br/>
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+<br/><br/>
+
+![Databases](https://img.shields.io/badge/DATABASES-161b22?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase,prisma&theme=dark" alt="MySQL, MongoDB, PostgreSQL, Supabase, Prisma" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
+
+<br/><br/>
+
+![Tools](https://img.shields.io/badge/TOOLS-161b22?style=flat-square)
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Git, GitHub, Vercel, Netlify" />
+
+<br/><br/>
+
+![Core CS](https://img.shields.io/badge/CORE%20CS-161b22?style=flat-square)
+<br/>
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff) ![OOP](https://img.shields.io/badge/OOP-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff) ![System Design](https://img.shields.io/badge/System%20Design-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff) ![REST](https://img.shields.io/badge/REST%20API%20Design-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff)
 
 </div>
 
----
-
-## 🚀 Featured Projects
+<a name="projects"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=Featured%20Projects&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="Featured Projects" width="100%" />
 
 <!-- Add more projects by copying a <table> block. Only include what is true. -->
 
@@ -156,21 +188,17 @@ I'm open to **Software Engineer / SDE internships and entry-level roles** in ful
 </table>
 -->
 
----
+<a name="engineering"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=Engineering%20Highlights&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="Engineering Highlights" width="100%" />
 
-## 🔧 Engineering Highlights
+- **Full-stack development:** shipped end-to-end apps: DreamDrift AI (Next.js, Prisma, PostgreSQL), ProsPly (React, Supabase) and a MERN stock analysis tool.
+- **Applied algorithms:** the Stock Price Analysis Tool uses Monotonic Stack, Greedy and Sliding Window techniques on real market data.
+- **AI integration:** DreamDrift AI delivers resume generation and mock interviews as product features.
+- **Mobile development:** cross-platform apps with React Native and Expo.
+- **Backend & system design:** gateway and proxy patterns, load balancing, caching and rate limiting.
 
-| Area | Evidence |
-|:--|:--|
-| **Full-stack development** | Shipped end-to-end apps: DreamDrift AI (Next.js, Prisma, PostgreSQL), ProsPly (React, Supabase) and a MERN stock analysis tool |
-| **Applied algorithms** | Stock Price Analysis Tool uses Monotonic Stack, Greedy and Sliding Window techniques on real market data |
-| **AI integration** | DreamDrift AI delivers resume generation and mock interviews as product features |
-| **Mobile development** | Cross-platform apps with React Native and Expo |
-| **Backend & system design** | Gateway and proxy patterns, load balancing, caching and rate limiting |
-
----
-
-## 🧩 Problem Solving & DSA
+<a name="dsa"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=Problem%20Solving%20and%20DSA&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="Problem Solving and DSA" width="100%" />
 
 <div align="center">
 
@@ -187,9 +215,8 @@ I'm open to **Software Engineer / SDE internships and entry-level roles** in ful
 
 </div>
 
----
-
-## 📊 GitHub Dashboard
+<a name="stats"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=GitHub%20Dashboard&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="GitHub Dashboard" width="100%" />
 
 <div align="center">
 
@@ -213,9 +240,7 @@ I'm open to **Software Engineer / SDE internships and entry-level roles** in ful
 
 </div>
 
----
-
-## 🌱 Currently Exploring
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=Currently%20Exploring&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="Currently Exploring" width="100%" />
 
 - AI integrations in full-stack products (building on DreamDrift AI)
 - Backend architecture and system design: gateways, caching, rate limiting
@@ -223,9 +248,8 @@ I'm open to **Software Engineer / SDE internships and entry-level roles** in ful
 
 <!-- TODO: edit this list to match what you're really learning right now -->
 
----
-
-## 🤝 Connect With Me
+<a name="contact"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f3a5f&height=50&section=header&text=Connect%20With%20Me&fontSize=22&fontColor=58a6ff&fontAlign=50&fontAlignY=50" alt="Connect With Me" width="100%" />
 
 <div align="center">
 
@@ -234,11 +258,7 @@ I'm open to **Software Engineer / SDE internships and entry-level roles** in ful
 <a href="https://ajayrazz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ajayrazz.netlify.app-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
 <a href="https://x.com/AjayRaz18514034"><img src="https://img.shields.io/badge/X-@AjayRaz18514034-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) profile" /></a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 *"Make it work, make it right, make it fast."*
 
